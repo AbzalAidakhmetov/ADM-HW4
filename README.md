@@ -5,10 +5,8 @@
 This repository contains the solutions of the Group #23 for the 4th HW of the ADM course in Sapienza University MSc in Data Science.
 
 ## Group Members:
-- 
-- 
-- Abzal Aidakhmetov - ID: 2115331
-- 
+- Abzal Aidakhmetov - matricola : 2115331
+- Amirhosein Dalvand - matricola : 2056639
 
 ## Files in the Repository:
 - __`main.ipynb`__: this file contains all the answers to Questions. 
