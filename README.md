@@ -10,4 +10,4 @@ This repository contains the solutions of the Group #23 for the 4th HW of the AD
 
 ## Files in the Repository:
 - __`main.ipynb`__: this file contains all the answers to Questions. 
-- __`CommandLine.sh`__:  shell script used to answer part of the Command Line Question (CLQ)
+
